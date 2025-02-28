@@ -51,8 +51,8 @@ void main() {
   Furadeira furadeira = Furadeira('Furadeira Elétrica', 3, 1500, 350.5);
 
   // Testando os métodos da classe
-  furadeira.ligar();  // Ligar a furadeira
-  furadeira.ajustarVelocidade(1800);  // Ajustar a velocidade da furadeira
-  furadeira.desligar();  // Desligar a furadeira
+  furadeira.ligar();  
+  furadeira.ajustarVelocidade(1800);  
+  furadeira.desligar();  
 }
 
